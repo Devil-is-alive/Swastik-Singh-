@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Neural Breach Resource Hub",
+  "description": "A comprehensive academic resource sharing platform for Yugastr 2026 Hackathon, featuring user authentication, privacy-controlled resource management, advanced search filtering, and a rating system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
